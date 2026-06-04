@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy - AR Balance Math</title>
+<style>
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f7fa;
+        line-height: 1.7;
+        color: #333;
+    }
+    .container {
+        max-width: 900px;
+        margin: 40px auto;
+        background: #ffffff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    h2 {
+        margin-top: 30px;
+        color: #2c3e50;
+    }
+    .date {
+        text-align: center;
+        color: #666;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .divider {
+        margin: 30px 0;
+        border-top: 1px solid #eee;
+    }
+    footer {
+        margin-top: 40px;
+        font-size: 14px;
+        color: #777;
+        text-align: center;
+    }
+    @media (max-width: 600px) {
+        .container {
+            margin: 20px;
+            padding: 20px;
+        }
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy<br>隱私權政策</h1>
+<div class="date">
+Last updated: June 4, 2026<br>
+最後更新日期：2026年6月4日
+</div>
+
+<div class="divider"></div>
+
+<h2>1. Overview 概述</h2>
+<p>
+AR Balance Math is an educational augmented reality application developed by a student from the Faculty of Education, The Chinese University of Hong Kong (CUHK).
+</p>
+<p>
+AR Balance Math（以下簡稱「本應用程式」）由香港中文大學教育學院學生開發，僅用於教育用途。
+</p>
+
+<h2>2. Information We Collect 資料收集</h2>
+<p><strong>The App does NOT:</strong></p>
+<ul>
+<li>Collect personal identification information (name, email, phone number)</li>
+<li>Require account registration</li>
+<li>Track user behavior</li>
+<li>Store learning data on external servers</li>
+</ul>
+
+<p><strong>本應用程式不會：</strong></p>
+<ul>
+<li>收集個人身份資料（姓名、電郵、電話）</li>
+<li>要求使用者建立帳戶</li>
+<li>追蹤使用者行為</li>
+<li>將學習資料儲存在外部伺服器</li>
+</ul>
+
+<h2>3. Camera Permission 相機權限</h2>
+<p>
+The App uses the device camera solely to detect flat surfaces and place the virtual balance scale for augmented reality learning.
+Camera data is processed locally on the device and is not stored, uploaded, or shared.
+</p>
+
+<p>
+本應用程式使用裝置相機功能僅用於偵測平面並放置虛擬天平模型，以提供擴增實境學習體驗。
+相機畫面僅在裝置本地處理，不會儲存、不會上傳、不會分享。
+</p>
+
+<h2>4. Data Storage 資料儲存</h2>
+<p>
+All processing occurs locally on the user’s device. No data is transmitted to external servers.
+</p>
+<p>
+所有資料處理均在使用者裝置本地進行，不會傳送至任何外部伺服器。
+</p>
+
+<h2>5. Third-Party Services 第三方服務</h2>
+<p>
+The App does not include advertisements, analytics services, or social media integrations.
+</p>
+<p>
+本應用程式不包含廣告、不使用分析工具，也不整合社交媒體服務。
+</p>
+
+<h2>6. Children's Privacy 兒童隱私</h2>
+<p>
+The App is designed for educational purposes and may be used by students.
+We do not knowingly collect personal data from children under 13.
+</p>
+<p>
+本應用程式為教育用途設計，適合學生使用。
+我們不會刻意收集13歲以下兒童的個人資料。
+</p>
+
+<h2>7. Changes to This Policy 政策變更</h2>
+<p>
+Any updates to this Privacy Policy will be posted on this page with a revised date.
+</p>
+<p>
+如本政策有任何更新，將於本頁面公告並更新日期。
+</p>
+
+<h2>8. Contact 聯絡方式</h2>
+<p>
+If you have any questions regarding this Privacy Policy, please contact:
+</p>
+<p>
+如對本隱私權政策有任何疑問，請聯絡：
+</p>
+
+<p>
+Email: your-email@example.com
+</p>
+
+<footer>
+© 2026 AR Balance Math. All rights reserved.
+</footer>
+
+</div>
+
+</body>
+</html>
